@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## 刘佳帅
+## 性别：男
+## 教育背景
+## 技能能力
+* 1.Java基础扎实，具有良好的编码习惯和风格。
+* 2.熟练掌握IEEA开发工具，熟悉Git版本控制工具
+* 3.熟悉掌握MySQL数据库，了解Oracle
+* 4.熟悉常用的Linux命令，能够搭建开发环境
+* 5.掌握JavaScript
+* 6.掌握servlet，XML，JDBC技术
+* 7.了解SpringCloud技术
 
-You can use the [editor on GitHub](https://github.com/Josiahliu/resume..github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## 技能证书
+* 英语4级
+* 普通话证书
+* Java资格认证
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 个人总结
+> 具备较强的学习能力及表达沟通能力；能迅速适应各种环境，并融入其中，能在压力环境下完成挑战性工作；
+工作态度认真负责，具有团队合作精神；希望能够与公司一起成长进步，实现个人价值。
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Josiahliu/resume..github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
