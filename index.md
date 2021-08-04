@@ -16,7 +16,7 @@
 * 4.熟练掌握MySQL数据库，了解Oracle
 * 5.熟练常用的Linux命令，能够搭建开发环境
 * 6.掌握JavaScript
-* 7.掌握servlet，XML，JDBC技术
+* 7.掌握Spring，XML，JDBC, Mybatis技术
 * 8.了解SpringCloud技术
 
 
